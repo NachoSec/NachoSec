@@ -1,16 +1,46 @@
-## Hi there 👋
+Hi, I'm Ignacio Navarrete
 
-<!--
-**NachoSec/NachoSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity Student & System Administration Background
+🎓 Graduate in Network Systems Administration (ASIR)
+🎓 Currently completing a Master’s Degree in Cybersecurity
 
-Here are some ideas to get you started:
+📚 Completed specialization modules in:
+• Cryptography
+• Web Security
+• Open Source Intelligence (OSINT)
+• Security in Linux Architectures
+• Corporate Network Security
+• Vulnerabilities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛡️ Focused on: vulnerability analysis, penetration testing, Linux security, network security and hands-on cybersecurity labs.
+
+🧰 Skills & Tools
+
+Security
+Nmap • Metasploit • Burp Suite • Wireshark • VulnServer • Ghidra • x64dbg
+
+Programming & Automation
+Python • Bash
+
+Operating Systems
+Linux (Kali, Debian, Ubuntu) • Windows • Windows Server
+
+Networking
+TCP/IP • Network scanning • Service enumeration • Exploit development basics
+
+Tools & Platforms
+Git • GitHub • VirtualBox • Docker
+
+🔍 Current Learning
+
+• Buffer overflow exploitation
+• Reverse engineering basics
+• Exploit development
+• Log analysis and detection techniques
+
+📂 Featured Projects (Building)
+
+🔸 VulnServer Exploitation Lab – Buffer overflow exploitation and EIP control
+🔸 Metasploit Framework Labs – Exploit development and post-exploitation
+🔸 Pentesting Notes & Methodology – Enumeration and vulnerability analysis
+🔸 Cybersecurity Home Lab – Kali Linux offensive security environment
